@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About myself
+subtitle: Technology enthusiast and self learned data management professional!!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sandeep Mehra. I have the following certifications:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- AWS Cloud Practitioner
+- AWS Soultion architect Associate
 
-What else do you need?
+Feel free to reach me @123-456-7890
 
 ### My story
 
