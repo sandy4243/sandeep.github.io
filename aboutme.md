@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About myself
-subtitle: Technology enthusiast and self learned data management professional!!
+subtitle: Technology enthusiast and lifelong learner!!
 ---
 
-My name is Sandeep Mehra. I have the following certifications:
+My name is Sandeep Mehra. I have the following interests:
 
-- AWS Cloud Practitioner
-- AWS Soultion architect Associate
+- Designing efficient, reliant and performant Database systems
+- I enjoy making electronic music.
 
 Feel free to reach me @123-456-7890
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
